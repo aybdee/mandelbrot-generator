@@ -4,10 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-      "serve": "webpack serve",
-      "build": "webpack"
-    },
-  "dependencies":{
+    "serve": "webpack serve",
+    "build": "webpack"
+  },
+  "dependencies": {
     "mandelbrot-generator":"file:../pkg"
   },
   "devDependencies": {
