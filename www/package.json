@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "mandelbrot-generator":"file:../pkg"
+    "mandelbrot-generator": "file:../pkg"
   },
   "devDependencies": {
     "html-webpack-plugin": "^5.5.3",
